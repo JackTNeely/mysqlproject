@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
-<style>
+
 <!--
  /* Font Definitions */
  @font-face
@@ -69,7 +69,6 @@ div.WordSection1
 ul
 	{margin-bottom:0in;}
 -->
-</style>
 
 </head>
 
@@ -92,13 +91,10 @@ Bagel Bin.”<br>
 <br>
 </p>
 
-<p class=MsoNormal>&nbsp;</p>
-
-<p class=MsoNormal><br>
 First, we import data from the bagel order form, which was provided for this
 project.</p>
 
-<p class=MsoNormal align=center style='text-align:center'><img width=624
+<p class=MsoNormal style='text-align:center'><img width=624
 height=352 id="Picture 1" src="MySQLProject_files/image001.jpg"
 alt="A picture containing table&#10;&#10;Description automatically generated"><br>
 <br>
@@ -175,7 +171,6 @@ clear=all style='page-break-before:always'>
 
 <p class=MsoNormal>&nbsp;</p>
 
-<p class=MsoNormal align=center style='text-align:center'>REQUIREMENT B</p>
 
 <p class=MsoNormal><br>
 The second project is to create a database for the business “Jaunty Coffee Co.”<br>
@@ -266,11 +261,6 @@ src="MySQLProject_files/image016.png"></p>
 src="MySQLProject_files/image017.png"
 alt="Graphical user interface, text, application, email&#10;&#10;Description automatically generated"></p>
 
-<p class=MsoNormal>&nbsp;</p>
-
-<p class=MsoNormal>&nbsp;</p>
-
-<p class=MsoNormal>&nbsp;</p>
 
 <p class=MsoNormal>Now let’s create an index on the COFFEE table and test:<br>
 <img width=279 height=37 id="Picture 26" src="MySQLProject_files/image018.png"></p>
@@ -352,7 +342,7 @@ Thank you.<br>
 <br>
 </p>
 
-<p class=MsoNormal>­ <img width=552 height=864 id="Picture 34"
+<p class=MsoNormal align=center>­ <img width=552 height=864 id="Picture 34"
 src="MySQLProject_files/image024.jpg"
 alt="Text&#10;&#10;Description automatically generated"></p>
 
