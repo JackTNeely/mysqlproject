@@ -78,8 +78,8 @@ ul
 	
 	
 <div align="center">
-<h1>Preview Coming Soon!</h1>
-<!--
+
+
 
 <div class=WordSection1>
 
@@ -336,12 +336,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span
 joined the tables COFFEE_SHOP and SUPPLIER on the COFFEE table by related
 attributes, ordered by coffee_id, and viewed our final result.</p>
 
-<p class=MsoNormal align=center style='text-align:center'><br>
-We accomplished our goals. The PRIMARY KEY (here is that we have inserted into
-ourselves an index of database management knowledge.) REFERENCES work_skill(Now
-we can inner join select data management organizations that can select from
-where we live our expertise.)<br>
-<br>
+
 <br>
 Thank you.<br>
 <br>
@@ -357,7 +352,7 @@ alt="Text&#10;&#10;Description automatically generated"></p>
 
 
 </div>
--->
+
 
 </body>
 
